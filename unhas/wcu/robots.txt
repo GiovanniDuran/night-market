@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wcu.unhas.ac.id/sitemap.xml
