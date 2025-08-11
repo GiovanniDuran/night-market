@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arsip.unhas.ac.id/sitemap.xml
