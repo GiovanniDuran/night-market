@@ -12,14 +12,14 @@
   <meta name="data-spm" content="Slot88" />
   <meta name="robots" content="index, follow" />
   <meta name="revisit" content="Slot88"/>
-  <meta name="og:url" content="https://bpi.unhas.ac.id/" />
+  <meta name="og:url" content="https://fallback.unhas.ac.id/" />
   <meta name="og:title" content="Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Slot88 merupakan situs slot88 online resmi yang hadir dengan jaminan kemenangan maksimal dengan fitur slot gacor hari ini yang memanjakan para pemainnya. Slot gacor 88 juga menghadirkan koleksi game slot gacor terbaru dengan bonus melimpah dan winrate slot88 gacor tertinggi." />
   <meta name="og:image" content="https://night-market.pages.dev/unhas/fallback/slot88.png" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://night-market.pages.dev/unhas/fallback/logo2.png" />
-  <link rel="canonical" href="https://bpi.unhas.ac.id/" />
+  <link rel="canonical" href="https://fallback.unhas.ac.id/" />
   <link rel="amphtml" href="https://night-market.pages.dev/unhas/fallback/amp.html" />
   <meta name="google-site-verification" content="wmHJEGJnlDXbqTkPdiUOGyVzlABNhtZSXu-7UrjGgT4" />
   <!-- start preload -->
@@ -59,7 +59,7 @@
       {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "https://bpi.unhas.ac.id/",
+        "name": "https://fallback.unhas.ac.id/",
         "operatingSystem": "Android",
         "applicationCategory": "GameApplication",
         "aggregateRating": {
@@ -678,7 +678,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini","image":"https://night-market.pages.dev/unhas/fallback/slot88.png","category":"Game & Video","brand":{"@type":"Brand","name":"Slot88","url":"https://bpi.unhas.ac.id/"},"sku":"9978447445_ID-2255234788","mpn":9978447445,"description":"Slot88 merupakan situs slot88 online resmi yang hadir dengan jaminan kemenangan maksimal dengan fitur slot gacor hari ini yang memanjakan para pemainnya. Slot gacor 88 juga menghadirkan koleksi game slot gacor terbaru dengan bonus melimpah dan winrate slot88 gacor tertinggi.","url":"https://bpi.unhas.ac.id/","offers":{"@type":"Offer","url":"https://bpi.unhas.ac.id/","seller":{"@type":"Organization","name":"Slot88"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini","image":"https://night-market.pages.dev/unhas/fallback/slot88.png","category":"Game & Video","brand":{"@type":"Brand","name":"Slot88","url":"https://fallback.unhas.ac.id/"},"sku":"9978447445_ID-2255234788","mpn":9978447445,"description":"Slot88 merupakan situs slot88 online resmi yang hadir dengan jaminan kemenangan maksimal dengan fitur slot gacor hari ini yang memanjakan para pemainnya. Slot gacor 88 juga menghadirkan koleksi game slot gacor terbaru dengan bonus melimpah dan winrate slot88 gacor tertinggi.","url":"https://fallback.unhas.ac.id/","offers":{"@type":"Offer","url":"https://fallback.unhas.ac.id/","seller":{"@type":"Organization","name":"Slot88"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -688,35 +688,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://bpi.unhas.ac.id/",
+            "@id": "https://fallback.unhas.ac.id/",
             "name": "Slot88"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://bpi.unhas.ac.id/",
+            "@id": "https://fallback.unhas.ac.id/",
             "name": "Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://bpi.unhas.ac.id/",
+            "@id": "https://fallback.unhas.ac.id/",
             "name": "Slot Gacor 88"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://bpi.unhas.ac.id/",
+            "@id": "https://fallback.unhas.ac.id/",
             "name": "Slot88 Online"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://bpi.unhas.ac.id/",
+            "@id": "https://fallback.unhas.ac.id/",
             "name": "Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini"
           }
         }]
@@ -814,7 +814,7 @@
       <div class="lzd-header-content">
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://bpi.unhas.ac.id/" data-spm="dhome"><img src="https://selamatpagidunia.site/lph-uniramalang/logo-demo.png" alt="Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini" style="width: min-content;"></a></div>
+              <div class="lzd-logo-content"><a href="https://fallback.unhas.ac.id/" data-spm="dhome"><img src="https://selamatpagidunia.site/lph-uniramalang/logo-demo.png" alt="Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini" style="width: min-content;"></a></div>
               <div class="lzd-nav-search " data-spm="Slot88">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -823,7 +823,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://bpi.unhas.ac.id/">
+            <a href="https://fallback.unhas.ac.id/">
                 <span class="lzd-site-menu-nav-category-text">Slot88</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1873,7 +1873,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://bpi.unhas.ac.id/">
+            <a href="https://fallback.unhas.ac.id/">
                 <span class="lzd-site-menu-nav-category-text">Slot88</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -3114,13 +3114,13 @@ if (!lzdDocCookies.getItem('t_uid')) {
       <ul class="breadcrumb" id="J_breadcrumb">
     <li class="breadcrumb_item">
     <span class="breadcrumb_item_text">
-    <a title="Slot88" href="https://bpi.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>Slot88</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <a title="Slot88" href="https://fallback.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>Slot88</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="Slot Gacor" href="https://bpi.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.2"><span>Slot Gacor</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="Slot Gacor" href="https://fallback.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.2"><span>Slot Gacor</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="Slot Gacor 88" href="https://bpi.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.3"><span>Slot Gacor 88</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="Slot Gacor 88" href="https://fallback.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.3"><span>Slot Gacor 88</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="Slot88 Online" href="https://bpi.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6">Slot88 Online</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="Slot88 Online" href="https://fallback.unhas.ac.id/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6">Slot88 Online</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item"><span class="breadcrumb_item_text">
     <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">SLOT GACOR</span></span></li></ul>
     </div>
@@ -3209,12 +3209,12 @@ if (!lzdDocCookies.getItem('t_uid')) {
   <div id="container" style="visibility: visible;">
     <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini" src="https://night-market.pages.dev/unhas/fallback/slot88.png"/></div></div>
   <a href="https://night-market.pages.dev/unhas/fallback/amp.html" rel="nofollow noopener" target="_blank"><img src="https://penghuniranksatu.xyz/photos/daftar-sekarang.gif" width="100%" height="auto" alt=""></a>
-  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a href="https://bpi.unhas.ac.id/" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">33.777.999 Sudah Jackpot</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
-  <div class="pdp-product-brand"><span class="pdp-product-brand__name">MEREK<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://bpi.unhas.ac.id/">Slot88</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Slot88 : Situs Resmi Slot88 Online Terbaru Dengan Jaminan Gampang Menang Hari Ini</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a href="https://fallback.unhas.ac.id/" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">33.777.999 Sudah Jackpot</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
+  <div class="pdp-product-brand"><span class="pdp-product-brand__name">MEREK<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://fallback.unhas.ac.id/">Slot88</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
     <footer class="footer-container container"> 
          <div class="row site-description-container">
              <div class="content">
-               <p><a href="https://bpi.unhas.ac.id/" title="Slot88">Slot88</a> merupakan situs slot88 online resmi yang hadir dengan jaminan kemenangan maksimal dengan fitur slot gacor hari ini yang memanjakan para pemainnya. Slot gacor 88 juga menghadirkan koleksi game slot gacor terbaru dengan bonus melimpah dan winrate slot88 gacor tertinggi.</p>
+               <p><a href="https://fallback.unhas.ac.id/" title="Slot88">Slot88</a> merupakan situs slot88 online resmi yang hadir dengan jaminan kemenangan maksimal dengan fitur slot gacor hari ini yang memanjakan para pemainnya. Slot gacor 88 juga menghadirkan koleksi game slot gacor terbaru dengan bonus melimpah dan winrate slot88 gacor tertinggi.</p>
               </br>
              
             <div class="col-sm-12">
