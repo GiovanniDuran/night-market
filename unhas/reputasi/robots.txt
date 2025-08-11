@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reputasi.unhas.ac.id/sitemap.xml
