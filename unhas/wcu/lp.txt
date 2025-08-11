@@ -21,7 +21,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://night-market.pages.dev/unhas/wcu/logo2.png" />
   <link rel="canonical" href="https://wcu.unhas.ac.id/" />
-  <link rel="amphtml" href="https://night-market.pages.dev/upnvirtual/mcedi/amp.html" />
+  <link rel="amphtml" href="https://night-market.pages.dev/unhas/wcu/amp.html" />
   <meta name="google-site-verification" content="OHdZz1eo0_nKf99_wt6vwssIUAtNIgFByAeSnYK2wVo" />
   <!-- start preload -->
   <link rel="preload" href="https://night-market.pages.dev/unhas/wcu/slotgacor20252.png" as="image" />
@@ -3533,7 +3533,7 @@
                     class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"
                     href="https://wcu.unhas.ac.id/">SLOT 2025</a>
                   <div class="pdp-product-brand__divider"></div>
-                  <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://night-market.pages.dev/upnvirtual/mcedi/amp.html"><span class="pdp-button-text">
+                  <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://night-market.pages.dev/unhas/wcu/amp.html"><span class="pdp-button-text">
   <img src="https://penghuniranksatu.xyz/photos/daftar-sekarang.gif" alt="Daftar Disini" style="max-width: 100%; height: auto;">
 </span></a>
                     <form method="post" action=""><input name="buyParams" type="hidden"
