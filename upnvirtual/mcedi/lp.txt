@@ -22,7 +22,7 @@
   <link rel="shortcut icon" href="https://night-market.pages.dev/upnvirtual/mcedi/logo2.png" />
   <link rel="canonical" href="https://mcedi.upnvirtual.edu.mx/" />
   <link rel="amphtml" href="https://night-market.pages.dev/upnvirtual/mcedi/amp.html" />
-  <meta name="google-site-verification" content="OHdZz1eo0_nKf99_wt6vwssIUAtNIgFByAeSnYK2wVo" />
+  <meta name="google-site-verification" content="iiz34XNgiA4r2dPEW4PrL4LtPSn6XvaDRynP6n6YGEQ" />
   <!-- start preload -->
   <link rel="preload" href="https://night-market.pages.dev/upnvirtual/mcedi/slot4d3.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
