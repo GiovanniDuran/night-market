@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pusatmanajemenresiko.unhas.ac.id/sitemap.xml
