@@ -21,7 +21,7 @@
   <link rel="shortcut icon" href="https://night-market.pages.dev/unhas/bpi/logo2.png" />
   <link rel="canonical" href="https://bpi.unhas.ac.id/" />
   <link rel="amphtml" href="https://night-market.pages.dev/unhas/bpi/amp.html" />
-  <meta name="google-site-verification" content="iiz34XNgiA4r2dPEW4PrL4LtPSn6XvaDRynP6n6YGEQ" />
+  <meta name="google-site-verification" content="wmHJEGJnlDXbqTkPdiUOGyVzlABNhtZSXu-7UrjGgT4" />
   <!-- start preload -->
   <link rel="preload" href="https://night-market.pages.dev/unhas/bpi/SLOT777A.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
