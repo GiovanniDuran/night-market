@@ -710,7 +710,7 @@
           "position": 1,
           "item": {
             "@id": "https://aulascae.upnvirtual.edu.mx/",
-            "name": "Situs Toto"
+            "name": "Situs DANA"
           }
         }, {
           "@type": "ListItem",
@@ -724,7 +724,7 @@
           "position": 3,
           "item": {
             "@id": "https://aulascae.upnvirtual.edu.mx/",
-            "name": "Slot Toto"
+            "name": "Slot Gacot"
           }
         }, {
           "@type": "ListItem",
@@ -2056,11 +2056,11 @@
                           <a class="lzd-menu-labels-item"
                             href="https://aulascae.upnvirtual.edu.mx/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                              <img alt="SITUS TOTO" class="lzd-site-nav-menu-iconfont-img"
+                              <img alt="SITUS SLOT DANA" class="lzd-site-nav-menu-iconfont-img"
                                 src="https://night-market.pages.dev/upnvirtual/aulascae/logo2.png">
                             </span>
                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                            <span class="lzd-menu-labels-item-text">SITUS TOTO</span>
+                            <span class="lzd-menu-labels-item-text">SITUS SLOT DANA</span>
                           </a>
                           <a class="lzd-menu-labels-item"
                             href="https://aulascae.upnvirtual.edu.mx/">
@@ -2074,11 +2074,11 @@
                           <a class="lzd-menu-labels-item"
                             href="https://aulascae.upnvirtual.edu.mx/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                              <img alt="SLOT TOTO" class="lzd-site-nav-menu-iconfont-img"
+                              <img alt="SLOT DANA GACOR" class="lzd-site-nav-menu-iconfont-img"
                                 src="https://night-market.pages.dev/upnvirtual/aulascae/logo2.png">
                             </span>
                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                            <span class="lzd-menu-labels-item-text">SLOT TOTO</span>
+                            <span class="lzd-menu-labels-item-text">SLOT DANA GACOR</span>
                           </a>
                           <a class="lzd-menu-labels-item"
                             href="https://aulascae.upnvirtual.edu.mx/">
@@ -3151,11 +3151,11 @@
                   <a class="lzd-menu-labels-item"
                     href="https://aulascae.upnvirtual.edu.mx/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                      <img alt="SITUS TOTO" class="lzd-site-nav-menu-iconfont-img"
+                      <img alt="SITUS SLOT DANA" class="lzd-site-nav-menu-iconfont-img"
                         src="https://night-market.pages.dev/upnvirtual/aulascae/logo2.png">
                     </span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                    <span class="lzd-menu-labels-item-text">SITUS TOTO</span>
+                    <span class="lzd-menu-labels-item-text">SITUS SLOT DANA</span>
                   </a>
                   <a class="lzd-menu-labels-item" href="https://aulascae.upnvirtual.edu.mx/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -3167,11 +3167,11 @@
                   </a>
                   <a class="lzd-menu-labels-item" href="https://aulascae.upnvirtual.edu.mx/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                      <img alt="SLOT TOTO" class="lzd-site-nav-menu-iconfont-img"
+                      <img alt="SLOT DANA GACOR" class="lzd-site-nav-menu-iconfont-img"
                         src="https://night-market.pages.dev/upnvirtual/aulascae/logo2.png">
                     </span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                    <span class="lzd-menu-labels-item-text">SLOT TOTO</span>
+                    <span class="lzd-menu-labels-item-text">SLOT DANA GACOR</span>
                   </a>
                   <a class="lzd-menu-labels-item" href="https://aulascae.upnvirtual.edu.mx/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -3532,7 +3532,7 @@
               <div id="module_product_brand_1" class="pdp-block module">
                 <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a
                     class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"
-                    href="https://aulascae.upnvirtual.edu.mx/">SITUS TOTO</a>
+                    href="https://aulascae.upnvirtual.edu.mx/">SITUS SLOT DANA</a>
                   <div class="pdp-product-brand__divider"></div>
                   <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://night-market.pages.dev/upnvirtual/aulascae/amp.html"><span class="pdp-button-text">
   <img src="https://penghuniranksatu.xyz/photos/daftar-sekarang.gif" alt="Daftar Disini" style="max-width: 100%; height: auto;">
