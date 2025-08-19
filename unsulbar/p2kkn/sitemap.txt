@@ -9,7 +9,7 @@
 
 <url>
   <loc>https://p2kkn.unsulbar.ac.id/</loc>
-  <lastmod>2025-08-11T04:07:19+00:00</lastmod>
+  <lastmod>2025-08-19T02:09:30+00:00</lastmod>
 </url>
 
 
