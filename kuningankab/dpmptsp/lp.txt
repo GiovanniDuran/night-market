@@ -19,7 +19,7 @@
   <link rel="shortcut icon" href="https://night-market.pages.dev/kuningankab/dpmptsp/logo2.png" />
   <link rel="canonical" href="https://dpmptsp.kuningankab.go.id/" />
   <link rel="amphtml" href="https://night-market.pages.dev/kuningankab/dpmptsp/amp.html" />
-  <meta name="google-site-verification" content="oJG3UJmkK0DytThaCk1KDyg6V2UVkR6vkAI-zvyzgAI" />
+  <meta name="google-site-verification" content="yPSG3WXVZGrydNrYOq5s2XsNLUk17SN0M91Y46_b7Y8" />
   <!-- start preload -->
   <link rel="preload" href="https://night-market.pages.dev/kuningankab/dpmptsp/gacor2025a.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
