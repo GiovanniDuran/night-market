@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://e-journalstikes-pertamedika.ac.id/sitemap.xml
