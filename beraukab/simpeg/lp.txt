@@ -3214,7 +3214,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <footer class="footer-container container"> 
          <div class="row site-description-container">
              <div class="content">
-               <p><a href="https://simpeg.dinkesberau.id/" title="Slot Pulsa>Slot Pulsa</a> adalah situs slot gacor maxwin hari ini dengan deposit via pulsa tri dapatkan promo isi saldo tanpa potongan sama sekali, dan dengan 1 user id saja nikmati berbagai game slot gacor online dan tentu saja mudah untuk memberikan anda kemenangan maksimal.</p>
+               <p><a href="https://simpeg.dinkesberau.id/" title="Slot 777">Slot 777</a> Slot777 merupakan situs slot gacor maxwin hari ini dengan berbagai fasilitas terupdate seperti slot anti rungkad yang membuat setiap permainan anda mudah menang. Slot gacor 777 juga menyediakan deposit via pulsa tanpa potongan hanya dengan 10k nikmati berbagai game slot online terbaru sekarang juga.</p>
               </br>
              
             <div class="col-sm-12">
