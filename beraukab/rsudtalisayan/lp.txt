@@ -3214,7 +3214,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <footer class="footer-container container"> 
          <div class="row site-description-container">
              <div class="content">
-               <p><a href="https://rsudtalisayan.beraukab.go.id/" title="Slot 777">Slot 777</a> merupakan situs thailand resmi yang beroperasi di slot gacor server thailand, menyediakan koleksi slot luar negeri dengan RTP tertinggi. Nikmati sensasi bermain di slot gacor thailand dan slot gacor luar negeri yang menawarkan peluang maxwin mudah setiap hari. Dapatkan update slot gacor hari ini terlengkap hanya di platform kami, yang telah menjadi pilihan utama pecinta slot thailand gacor.</p>
+               <p><a href="https://rsudtalisayan.beraukab.go.id/" title="Slot 777">Slot 777</a> Slot777 merupakan situs slot gacor maxwin hari ini dengan berbagai fasilitas terupdate seperti slot anti rungkad yang membuat setiap permainan anda mudah menang. Slot gacor 777 juga menyediakan deposit via pulsa tanpa potongan hanya dengan 10k nikmati berbagai game slot online terbaru sekarang juga.</p>
               </br>
              
             <div class="col-sm-12">
