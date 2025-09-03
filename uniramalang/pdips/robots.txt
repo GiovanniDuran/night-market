@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lppm.uniramalang.ac.id/sitemap-ips.xml
