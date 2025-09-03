@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kemahasiswaan.uniramalang.ac.id/sitemap-kemahasiswaan.xml
