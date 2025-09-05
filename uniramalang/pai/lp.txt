@@ -3214,7 +3214,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <footer class="footer-container container"> 
          <div class="row site-description-container">
              <div class="content">
-               <p><a href="https://pai.uniramalang.ac.id/" title="Slot 4D ">Slot 4D </a> Slot 4D merupakan bagian dari situs slot gacor 4d serta link slot toto togel 4d paling gacor mudah menang saat ini. Bonus dan promosi slot4d gacor yang melimpah setiap hari bisa kalian klaim setiap bermain.</p>
+               <p><a href="https://pai.uniramalang.ac.id/" title="Slot 4D ">Slot 4D </a> merupakan bagian dari situs slot gacor 4d serta link slot toto togel 4d paling gacor mudah menang saat ini. Bonus dan promosi slot4d gacor yang melimpah setiap hari bisa kalian klaim setiap bermain.</p>
               </br>
              
             <div class="col-sm-12">
