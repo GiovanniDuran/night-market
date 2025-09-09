@@ -7,7 +7,7 @@
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <link rel="amphtml" href="https://night-market.pages.dev/unimap/pusatislam/amp.html" />
-<meta name="google-site-verification" content="_hhx0Rc0oqokyUlhiMuIAA_iEf699B_RkQmbl2MeBSU" />
+<meta name="google-site-verification" content="DN-JIz36TTooxQMbpb29JVq7efqOrFtjn5aC0mgEkX4" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
