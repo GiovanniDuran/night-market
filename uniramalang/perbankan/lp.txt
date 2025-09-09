@@ -6,7 +6,7 @@
 
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://night-market.pages.dev/fkm-unand/amp.html" />
+<link rel="amphtml" href="https://night-market.pages.dev/uniramalang/perbankan/amp.html" />
 <meta name="google-site-verification" content="_hhx0Rc0oqokyUlhiMuIAA_iEf699B_RkQmbl2MeBSU" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -1371,11 +1371,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://night-market.pages.dev/fkm-unand/amp.html">
+                <a class="off-canvas-right__link" href="https://night-market.pages.dev/uniramalang/perbankan/amp.html">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://night-market.pages.dev/fkm-unand/amp.html">
+                <a class="off-canvas-right__link" href="https://night-market.pages.dev/uniramalang/perbankan/amp.html">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1887,9 +1887,9 @@
       <div class="w-100 mt-4 mb-4 text-center">
         
         <div class="n-columns-2">
-            <a href="https://night-market.pages.dev/fkm-unand/amp.html" rel="nofollow noreferrer"
+            <a href="https://night-market.pages.dev/uniramalang/perbankan/amp.html" rel="nofollow noreferrer"
                 class="login">LOGIN</a>
-            <a href="https://night-market.pages.dev/fkm-unand/amp.html" rel="nofollow noreferrer"
+            <a href="https://night-market.pages.dev/uniramalang/perbankan/amp.html" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div>
       </div>
@@ -2001,7 +2001,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://night-market.pages.dev/fkm-unand/amp.html"><img
+                                                href="https://night-market.pages.dev/uniramalang/perbankan/amp.html"><img
                                                     alt="Demo Slot 2025 :  Afiliator Situs Gacor Penyedia Akun Slot Demo Terbaru Anti Lag - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://night-market.pages.dev/uniramalang/perbankan/demoslot.png"
@@ -2077,14 +2077,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://night-market.pages.dev/fkm-unand/amp.html"
+                                                    <a href="https://night-market.pages.dev/uniramalang/perbankan/amp.html"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://night-market.pages.dev/fkm-unand/amp.html"
+                                                        href="https://night-market.pages.dev/uniramalang/perbankan/amp.html"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -2317,7 +2317,7 @@
 
                                                         <div class="purchase-form__cta-buttons" bis_skin_checked="1">
                                                             <div class="purchase-form__button" bis_skin_checked="1">
-                                                               <p><a href="https://night-market.pages.dev/fkm-unand/amp.html"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://penghuniranksatu.xyz/new-09/pgsd-unr/daftar-sekarang.gif" alt="" width="274" height="126" /></a></p>
+                                                               <p><a href="https://night-market.pages.dev/uniramalang/perbankan/amp.html"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://penghuniranksatu.xyz/new-09/pgsd-unr/daftar-sekarang.gif" alt="" width="274" height="126" /></a></p>
                                                             </div>
 
                                                         </div>
