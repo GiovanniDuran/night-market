@@ -862,7 +862,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                         <div class="header-site-titles__site elements-nav__container" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link elements-nav__main-link" href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net" target="_blank">
                                                 <span>
-                                                    Unlimited Downloads
+                                                    SLOT DEMO PG SOFT
                                                 </span>
                                             </a>
 
