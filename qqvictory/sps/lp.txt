@@ -284,7 +284,7 @@
  
         <link rel="preconnect" href="https://sps.uts.edu.my/" crossorigin="anonymous" /><link rel="preconnect" href="https://sps.uts.edu.my/" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://night-market.pages.dev/qqvictory/55.jpg" fetchpriority="high" />
  
-<meta name="google-site-verification" content="I92gjPbVIJ0ptJWJlWde_lREFLpEa_53h0U0ePzefLU" /> 
+<meta name="google-site-verification" content="xO1vGvNTTtKDz8fC4373MJrwGBMzYoQbc7crykyT2cw" /> 
 <link rel="canonical" href="https://sps.uts.edu.my/" />
 <link rel="amphtml" href="https://night-market.pages.dev/qqvictory/sps/amp.html" />
 <link rel="alternate" href="https://sps.uts.edu.my/" hreflang="en" />
