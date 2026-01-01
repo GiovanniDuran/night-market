@@ -7,9 +7,8 @@
 <link rel="canonical" href="https://triatmamulya.ac.id/">
 <link rel="amphtml" href="https://night-market.pages.dev/triatma/naik-teros.html" />
 <link as='image' href='https://night-market.pages.dev/triatma/sg52.jpg' rel='preload'>
-<meta name="google-site-verification" content="sKiJU6WQf1tnq_C7wK-kfcgDmSKcINl8E4RsUyzApeI" />
-<meta name="google-site-verification" content="GjcLDfy4Q-qKgcVYTmDRw7-P54SbWldDxPHap-ey5Hs" />
-<meta name="google-site-verification" content="NTqaSLd6M-CKTWWBtY1wlrpmxVAcEVWQ-5vnmtKkOV0" />
+<meta name="google-site-verification" content="zS-iveib762rFGAmXWnNak0IrxIzmPx1ONO0Qk-RmSI" />
+<meta name="google-site-verification" content="JgfJ-__b5fYxPDLLshDDl8QBLic_bSX2-E5tzTMg2Xs" />
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
